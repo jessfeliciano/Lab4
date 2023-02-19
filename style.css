@@ -81,8 +81,6 @@ body{
 }
 
 label {
-    
-    
    margin:30px auto 40px 730px;
 }
 
@@ -95,17 +93,10 @@ button{
     margin-right: auto;
     margin-top: 10px;
 }
-.temperature-value p:hover{
-    
-}
 
 .temperature-value span{
     color: #293251;
     font-size: 0.5em;
-}
-
-.temperature-description{
-    
 }
 
 .temperature-description p{
@@ -114,10 +105,6 @@ button{
     color: #293251;
     text-align: center;
     font-size: 1.2em;
-}
-
-.location{
-    
 }
 
 .location p{
